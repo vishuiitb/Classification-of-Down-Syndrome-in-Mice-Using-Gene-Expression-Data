@@ -26,4 +26,4 @@ The dataset used for this project is from the UCI Machine Learning Repository:
 3. *Feature Selection*:
    - Use recursive feature elimination (RFE) to identify and remove less important features, thereby improving model performance.
 
-## Note: You will find wine_quality_pridiction.ipynb file in this repository which has more than the necessary information. Question 2 contains the solution described above.
+## Note: Q2 of the provided pynb file is mice syndrome
